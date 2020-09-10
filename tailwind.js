@@ -10,6 +10,9 @@ module.exports = {
       lineHeight : {
         '2x-loose' : '3rem'
       },
+      fontSize : {
+        'xxs' : '10px'
+      }
     },
   },
   variants: {},
